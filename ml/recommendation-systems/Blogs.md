@@ -1,2 +1,3 @@
 - [Neptune-building_deployment](https://neptune.ai/blog/recommender-systems-lessons-from-building-and-deployment)
 - [YouTube's RecSys paper is a box of insights-DHRUVIL KARANI](https://dhruvil.substack.com/p/youtubes-recsys-paper-is-a-box-of)
+- [RecsysArchitectures](https://amatriain.net/blog/RecsysArchitectures)
